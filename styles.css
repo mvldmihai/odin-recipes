@@ -39,3 +39,13 @@ strong {
 p {
     color: rgb(144, 215, 255);
 }
+
+.page {
+    display: inline-block;
+    border: 2px solid #F3F3F4;
+    margin: 15px;
+}
+
+.main {
+    width: 250px;
+}
